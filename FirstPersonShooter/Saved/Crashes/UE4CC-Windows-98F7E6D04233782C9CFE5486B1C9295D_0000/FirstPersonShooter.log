@@ -1,0 +1,883 @@
+﻿Log file open, 11/04/18 10:39:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FirstPersonShooter
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(847682648) SRandInit(847682649).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.356837
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.144s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-G401FM1 (192.168.1.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Archive/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.04-10.39.32:685][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-10.39.32:685][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.04-10.39.32:710][  0]LogInit: Computer: DESKTOP-G401FM1
+[2018.11.04-10.39.32:710][  0]LogInit: User: Samuel
+[2018.11.04-10.39.32:710][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.04-10.39.32:710][  0]LogInit: High frequency timer resolution =3.914061 MHz
+[2018.11.04-10.39.32:710][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.04-10.39.32:710][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.04-10.39.32:710][  0]LogMemory: Process Physical Memory: 274.35 MB used, 274.35 MB peak
+[2018.11.04-10.39.32:710][  0]LogMemory: Process Virtual Memory: 264.70 MB used, 264.70 MB peak
+[2018.11.04-10.39.32:710][  0]LogMemory: Physical Memory: 14825.33 MB used,  17820.37 MB free, 32645.70 MB total
+[2018.11.04-10.39.32:710][  0]LogMemory: Virtual Memory: 4790.40 MB used,  17820.37 MB free, 134217728.00 MB total
+[2018.11.04-10.39.32:997][  0]LogInit: Using OS detected language (en-GB).
+[2018.11.04-10.39.32:997][  0]LogInit: Using OS detected locale (en-GB).
+[2018.11.04-10.39.33:048][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.11.04-10.39.33:450][  0]LogStreaming: Display: Took  0.453s to EndInitTextLocalization.
+[2018.11.04-10.39.33:450][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.04-10.39.33:539][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.04-10.39.33:539][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.04-10.39.35:634][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.04-10.39.35:690][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.04-10.39.35:690][  0]LogD3D11RHI:       8079/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.04-10.39.35:697][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.04-10.39.35:697][  0]LogD3D11RHI:       128/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.04-10.39.35:699][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.04-10.39.35:699][  0]LogD3D11RHI:       0/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.04-10.39.35:699][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.04-10.39.35:709][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.04-10.39.35:709][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.04-10.39.35:709][  0]LogWindows: EnumDisplayDevices:
+[2018.11.04-10.39.35:709][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.11.04-10.39.35:709][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.04-10.39.35:710][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.04-10.39.35:710][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.04-10.39.35:710][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.04-10.39.35:710][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.04-10.39.35:710][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.04-10.39.35:710][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.04-10.39.35:710][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.04-10.39.35:710][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.04-10.39.35:710][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.04-10.39.35:710][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.11.04-10.39.35:746][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.04-10.39.35:747][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.04-10.39.35:747][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.04-10.39.35:783][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.04-10.39.35:826][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../unreal/FirstPersonColab/FirstPersonShooter/Intermediate/Shaders/WorkingDirectory/28856/).
+[2018.11.04-10.39.35:826][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/4B3034FA40530A47715A11AD8D7F26D3/'.
+[2018.11.04-10.39.36:782][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.04-10.39.36:794][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.04-10.39.36:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.04-10.39.36:816][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.04-10.39.36:832][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.04-10.39.36:844][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.04-10.39.36:855][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.04-10.39.36:868][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.04-10.39.36:873][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.04-10.39.36:883][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.04-10.39.36:894][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.04-10.39.36:905][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.04-10.39.36:915][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.04-10.39.36:924][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.04-10.39.36:934][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.04-10.39.36:954][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.04-10.39.36:954][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.04-10.39.36:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.04-10.39.36:969][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.04-10.39.37:053][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.04-10.39.37:063][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.04-10.39.37:076][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.04-10.39.37:086][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.04-10.39.37:097][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.04-10.39.37:112][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.04-10.39.37:112][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.04-10.39.37:894][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.04-10.39.37:894][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.04-10.39.37:894][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.04-10.39.37:894][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.04-10.39.39:390][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../unreal/FirstPersonColab/FirstPersonShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../unreal/FirstPersonColab/FirstPersonShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.04-10.39.39:456][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.04-10.39.39:486][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.04-10.39.39:498][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.04-10.39.39:498][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.04-10.39.39:498][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.04-10.39.39:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.04-10.39.39:508][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.04-10.39.39:516][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-10.39.39:516][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.04-10.39.44:671][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.11.04-10.39.44:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.04-10.39.45:243][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.04-10.39.45:245][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.04-10.39.45:245][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.04-10.39.45:245][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.04-10.39.45:245][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.04-10.39.45:245][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.04-10.39.45:303][  0]LogNetVersion: FirstPersonShooter , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1256069248)
+[2018.11.04-10.39.46:237][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.094075 seconds
+[2018.11.04-10.39.46:242][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.04-10.39.46:242][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.04-10.39.46:242][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.04-10.39.49:722][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.04-10.39.49:755][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.04-10.39.50:190][  0]SourceControl: Source control is disabled
+[2018.11.04-10.39.50:190][  0]SourceControl: Source control is disabled
+[2018.11.04-10.39.50:213][  0]SourceControl: Source control is disabled
+[2018.11.04-10.39.50:234][  0]SourceControl: Source control is disabled
+[2018.11.04-10.39.50:842][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.04-10.39.51:163][  0]LogOcInput: OculusInput pre-init called
+[2018.11.04-10.39.51:295][  0]LogEngine: Initializing Engine...
+[2018.11.04-10.39.51:374][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.11.04-10.39.51:376][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-10.39.51:376][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-10.39.51:728][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.04-10.39.51:832][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.04-10.39.51:943][  0]LogInit: FAudioDevice initialized.
+[2018.11.04-10.39.52:018][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.04-10.39.52:034][  0]LogInit: Texture streaming: Enabled
+[2018.11.04-10.39.52:048][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.04-10.39.52:068][  0]LogInit: Transaction tracking system initialized
+[2018.11.04-10.39.52:089][  0]BlueprintLog: New page: Editor Load
+[2018.11.04-10.39.52:161][  0]LocalizationService: Localization service is disabled
+[2018.11.04-10.39.52:293][  0]LogConsoleResponse: Display: 
+[2018.11.04-10.39.52:638][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.04-10.39.52:638][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.04-10.39.52:638][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.04-10.39.52:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.04-10.39.52:638][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.04-10.39.53:118][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/FirstPersonColab/FirstPersonShooter/Content/' took 0.02s
+[2018.11.04-10.39.53:118][  0]SourceControl: Source control is disabled
+[2018.11.04-10.39.53:118][  0]Cmd: MAP LOAD FILE="../../../../../unreal/FirstPersonColab/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.04-10.39.53:118][  0]LightingResults: New page: Lighting Build
+[2018.11.04-10.39.53:120][  0]MapCheck: New page: Map Check
+[2018.11.04-10.39.53:120][  0]LightingResults: New page: Lighting Build
+[2018.11.04-10.39.53:213][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f42b7aa00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.04-10.39.53:222][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f42b7aa00, Size=64
+[2018.11.04-10.39.53:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f42b7aac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.04-10.39.53:229][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f25493ce0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.11.04-10.39.53:349][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2541dd80, Size=360, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.11.04-10.39.53:359][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f2541dd80, Size=360
+[2018.11.04-10.39.53:359][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f253a0b80, Size=360, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.11.04-10.39.53:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f24a20100, Size=360, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.11.04-10.39.53:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2628f2e0, Size=200, Default__pain1_C Function /Game/ThirdPersonBP/Blueprints/pain1.pain1_C:ExecuteUbergraph_pain1
+[2018.11.04-10.39.53:495][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f2628f2e0, Size=200
+[2018.11.04-10.39.53:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2628f2e0, Size=200, Default__pain1_C Function /Engine/Transient.REINST_pain1_C_9:ExecuteUbergraph_pain1
+[2018.11.04-10.39.53:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2628dd00, Size=200, Default__pain1_C Function /Game/ThirdPersonBP/Blueprints/pain1.pain1_C:ExecuteUbergraph_pain1
+[2018.11.04-10.39.53:634][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [10.103828ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.11.04-10.39.53:745][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.04-10.39.53:783][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.04-10.39.53:795][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f42b7aac0, Size=64
+[2018.11.04-10.39.53:795][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f253a0b80, Size=360
+[2018.11.04-10.39.53:795][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f2628f2e0, Size=200
+[2018.11.04-10.39.53:796][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.04-10.39.53:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.174ms to complete.
+[2018.11.04-10.39.53:859][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.742
+[2018.11.04-10.39.54:032][  0]LogCollectionManager: Loaded 0 collections in 0.001100 seconds
+[2018.11.04-10.39.54:077][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/FirstPersonColab/FirstPersonShooter/Saved/Collections/' took 0.01s
+[2018.11.04-10.39.54:077][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/FirstPersonColab/FirstPersonShooter/Content/Developers/Samuel/Collections/' took 0.01s
+[2018.11.04-10.39.54:077][  0]LogFileCache: Scanning file cache for directory 'D:/unreal/FirstPersonColab/FirstPersonShooter/Content/Collections/' took 0.01s
+[2018.11.04-10.39.54:077][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.04-10.39.54:085][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.11.04-10.39.54:089][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.04-10.39.54:404][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.04-10.39.54:408][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.04-10.39.54:487][  0]LogSlate: Took 0.005072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.04-10.39.54:496][  0]LogSlate: Took 0.004686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.04-10.39.54:505][  0]LogSlate: Took 0.005140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.04-10.39.54:641][  0]LogRenderer: Reallocating scene render targets to support 1264x704 Format 10 NumSamples 1 (Frame:1).
+[2018.11.04-10.39.54:819][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.04-10.39.54:819][  0]LogLoad: (Engine Initialization) Total time: 28.09 seconds
+[2018.11.04-10.39.54:819][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.04-10.39.54:851][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.04-10.39.54:928][  1]LogAssetRegistry: Asset discovery search completed in 10.2792 seconds
+[2018.11.04-10.39.54:930][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.04-10.39.54:930][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.11.04-10.39.55:871][ 84]LogSlate: Took 0.003546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-10.39.57:714][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-10.43.03:106][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.04-10.50.43:723][455]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.04-10.51.04:922][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f5333c820, Size=88, Default__BP_BackGroundParticles_C Function /Game/MenuBuilderCarousel/Blueprints/BP_BackGroundParticles.BP_BackGroundParticles_C:ExecuteUbergraph_BP_BackGroundParticles
+[2018.11.04-10.51.04:932][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f5333c820, Size=88
+[2018.11.04-10.51.04:932][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f53b33d00, Size=88, Default__BP_BackGroundParticles_C Function /Engine/Transient.REINST_BP_BackGroundParticles_C_11:ExecuteUbergraph_BP_BackGroundParticles
+[2018.11.04-10.51.04:953][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f53b32ec0, Size=88, Default__BP_BackGroundParticles_C Function /Game/MenuBuilderCarousel/Blueprints/BP_BackGroundParticles.BP_BackGroundParticles_C:ExecuteUbergraph_BP_BackGroundParticles
+[2018.11.04-10.51.04:963][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f38e77d78, Size=4, Default__PC_Menu_C Function /Game/MenuBuilderCarousel/Blueprints/PC_Menu.PC_Menu_C:ExecuteUbergraph_PC_Menu
+[2018.11.04-10.51.04:988][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f38e756b0, Size=4, Default__W_Campaign_C Function /Game/MenuBuilderCarousel/UMG/W_Campaign.W_Campaign_C:ExecuteUbergraph_W_Campaign
+[2018.11.04-10.51.04:994][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f38e74a08, Size=8, Default__W_ButtonFooter_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonFooter.W_ButtonFooter_C:ExecuteUbergraph_W_ButtonFooter
+[2018.11.04-10.51.05:009][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f38e77240, Size=8, Default__W_ButtonRegular_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonRegular.W_ButtonRegular_C:ExecuteUbergraph_W_ButtonRegular
+[2018.11.04-10.51.05:067][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54f2b880, Size=376, Default__W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.51.05:099][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f5432fb20, Size=96, Default__W_ButtonMainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonMainMenu.W_ButtonMainMenu_C:ExecuteUbergraph_W_ButtonMainMenu
+[2018.11.04-10.51.05:154][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f3d3577c0, Size=188, Default__W_CarouselItem_C Function /Game/MenuBuilderCarousel/UMG/W_CarouselItem.W_CarouselItem_C:ExecuteUbergraph_W_CarouselItem
+[2018.11.04-10.51.05:168][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55312a20, Size=200, Default__W_CarouselSlot_C Function /Game/MenuBuilderCarousel/UMG/W_CarouselSlot.W_CarouselSlot_C:ExecuteUbergraph_W_CarouselSlot
+[2018.11.04-10.51.05:207][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f58e2c240, Size=4, Default__W_Multiplayer_C Function /Game/MenuBuilderCarousel/UMG/W_Multiplayer.W_Multiplayer_C:ExecuteUbergraph_W_Multiplayer
+[2018.11.04-10.51.05:221][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f58e2cc38, Size=4, Default__W_Settings_C Function /Game/MenuBuilderCarousel/UMG/W_Settings.W_Settings_C:ExecuteUbergraph_W_Settings
+[2018.11.04-10.51.05:271][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55324b80, Size=120, Default__W_AdvancedOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AdvancedOptions.W_AdvancedOptions_C:ExecuteUbergraph_W_AdvancedOptions
+[2018.11.04-10.51.05:287][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2dc24c00, Size=512, Default__W_ButtonScroll1_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonScroll1.W_ButtonScroll1_C:ExecuteUbergraph_W_ButtonScroll1
+[2018.11.04-10.51.05:312][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f543484c0, Size=24, Default__W_PopUpSaveSettings_C Function /Game/MenuBuilderCarousel/UMG/W_PopUpSaveSettings.W_PopUpSaveSettings_C:ExecuteUbergraph_W_PopUpSaveSettings
+[2018.11.04-10.51.05:331][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55703858, Size=4, Default__W_QualityLevels_C Function /Game/MenuBuilderCarousel/UMG/W_QualityLevels.W_QualityLevels_C:ExecuteUbergraph_W_QualityLevels
+[2018.11.04-10.51.05:348][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55702a78, Size=4, Default__W_Resolution_C Function /Game/MenuBuilderCarousel/UMG/W_Resolution.W_Resolution_C:ExecuteUbergraph_W_Resolution
+[2018.11.04-10.51.05:364][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f556c9c90, Size=112, Default__W_VideoOptions_C Function /Game/MenuBuilderCarousel/UMG/W_VideoOptions.W_VideoOptions_C:ExecuteUbergraph_W_VideoOptions
+[2018.11.04-10.51.05:368][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55702678, Size=4, Default__W_FrameRateLevels_C Function /Game/MenuBuilderCarousel/UMG/W_FrameRateLevels.W_FrameRateLevels_C:ExecuteUbergraph_W_FrameRateLevels
+[2018.11.04-10.51.05:385][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55702110, Size=4, Default__W_WindowMode_C Function /Game/MenuBuilderCarousel/UMG/W_WindowMode.W_WindowMode_C:ExecuteUbergraph_W_WindowMode
+[2018.11.04-10.51.05:406][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f548770b0, Size=104, Default__W_AudioOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AudioOptions.W_AudioOptions_C:ExecuteUbergraph_W_AudioOptions
+[2018.11.04-10.51.05:431][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55606680, Size=88, Default__W_GameOptions_C Function /Game/MenuBuilderCarousel/UMG/W_GameOptions.W_GameOptions_C:ExecuteUbergraph_W_GameOptions
+[2018.11.04-10.51.05:434][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f557010b0, Size=4, Default__W_DifficultyLevels_C Function /Game/MenuBuilderCarousel/UMG/W_DifficultyLevels.W_DifficultyLevels_C:ExecuteUbergraph_W_DifficultyLevels
+[2018.11.04-10.51.05:457][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f55606560, Size=88, Default__W_GameOptions_C Function /Game/MenuBuilderCarousel/UMG/W_GameOptions.W_GameOptions_C:ExecuteUbergraph_W_GameOptions
+[2018.11.04-10.51.05:458][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f548762b0, Size=104, Default__W_AudioOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AudioOptions.W_AudioOptions_C:ExecuteUbergraph_W_AudioOptions
+[2018.11.04-10.51.05:458][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54876240, Size=112, Default__W_VideoOptions_C Function /Game/MenuBuilderCarousel/UMG/W_VideoOptions.W_VideoOptions_C:ExecuteUbergraph_W_VideoOptions
+[2018.11.04-10.51.05:458][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6b653a80, Size=120, Default__W_AdvancedOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AdvancedOptions.W_AdvancedOptions_C:ExecuteUbergraph_W_AdvancedOptions
+[2018.11.04-10.51.05:677][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f38e77d78, Size=4
+[2018.11.04-10.51.05:677][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06ac10, Size=4, Default__PC_Menu_C Function /Engine/Transient.REINST_PC_Menu_C_13:ExecuteUbergraph_PC_Menu
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f38e74a08, Size=8
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06aba8, Size=8, Default__W_ButtonFooter_C Function /Engine/Transient.REINST_W_ButtonFooter_C_3:ExecuteUbergraph_W_ButtonFooter
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f5432fb20, Size=96
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d1d2aa0, Size=96, Default__W_ButtonMainMenu_C Function /Engine/Transient.REINST_W_ButtonMainMenu_C_4:ExecuteUbergraph_W_ButtonMainMenu
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f38e77240, Size=8
+[2018.11.04-10.51.05:679][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06aad0, Size=8, Default__W_ButtonRegular_C Function /Engine/Transient.REINST_W_ButtonRegular_C_5:ExecuteUbergraph_W_ButtonRegular
+[2018.11.04-10.51.05:680][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f2dc24c00, Size=512
+[2018.11.04-10.51.05:680][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d248e00, Size=512, Default__W_ButtonScroll1_C Function /Engine/Transient.REINST_W_ButtonScroll1_C_6:ExecuteUbergraph_W_ButtonScroll1
+[2018.11.04-10.51.05:680][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f38e756b0, Size=4
+[2018.11.04-10.51.05:680][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a9a8, Size=4, Default__W_Campaign_C Function /Engine/Transient.REINST_W_Campaign_C_7:ExecuteUbergraph_W_Campaign
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f3d3577c0, Size=188
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d122d40, Size=188, Default__W_CarouselItem_C Function /Engine/Transient.REINST_W_CarouselItem_C_8:ExecuteUbergraph_W_CarouselItem
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55312a20, Size=200
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6cf44d40, Size=200, Default__W_CarouselSlot_C Function /Engine/Transient.REINST_W_CarouselSlot_C_9:ExecuteUbergraph_W_CarouselSlot
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f557010b0, Size=4
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a990, Size=4, Default__W_DifficultyLevels_C Function /Engine/Transient.REINST_W_DifficultyLevels_C_10:ExecuteUbergraph_W_DifficultyLevels
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55702678, Size=4
+[2018.11.04-10.51.05:681][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a970, Size=4, Default__W_FrameRateLevels_C Function /Engine/Transient.REINST_W_FrameRateLevels_C_11:ExecuteUbergraph_W_FrameRateLevels
+[2018.11.04-10.51.05:682][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54f2b880, Size=376
+[2018.11.04-10.51.05:682][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6cf0f280, Size=376, Default__W_MainMenu_C Function /Engine/Transient.REINST_W_MainMenu_C_14:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.51.05:682][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f58e2c240, Size=4
+[2018.11.04-10.51.05:682][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a948, Size=4, Default__W_Multiplayer_C Function /Engine/Transient.REINST_W_Multiplayer_C_15:ExecuteUbergraph_W_Multiplayer
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f543484c0, Size=24
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6cff3178, Size=24, Default__W_PopUpSaveSettings_C Function /Engine/Transient.REINST_W_PopUpSaveSettings_C_16:ExecuteUbergraph_W_PopUpSaveSettings
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55703858, Size=4
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a930, Size=4, Default__W_QualityLevels_C Function /Engine/Transient.REINST_W_QualityLevels_C_17:ExecuteUbergraph_W_QualityLevels
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55702a78, Size=4
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a8a0, Size=4, Default__W_Resolution_C Function /Engine/Transient.REINST_W_Resolution_C_18:ExecuteUbergraph_W_Resolution
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f58e2cc38, Size=4
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a860, Size=4, Default__W_Settings_C Function /Engine/Transient.REINST_W_Settings_C_19:ExecuteUbergraph_W_Settings
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55702110, Size=4
+[2018.11.04-10.51.05:683][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d06a850, Size=4, Default__W_WindowMode_C Function /Engine/Transient.REINST_W_WindowMode_C_20:ExecuteUbergraph_W_WindowMode
+[2018.11.04-10.51.05:684][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6b653a80, Size=120
+[2018.11.04-10.51.05:684][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d1f9300, Size=120, Default__W_AdvancedOptions_C Function /Engine/Transient.REINST_W_AdvancedOptions_C_21:ExecuteUbergraph_W_AdvancedOptions
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f548762b0, Size=104
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6cfdd830, Size=104, Default__W_AudioOptions_C Function /Engine/Transient.REINST_W_AudioOptions_C_22:ExecuteUbergraph_W_AudioOptions
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f55606560, Size=88
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d1d2500, Size=88, Default__W_GameOptions_C Function /Engine/Transient.REINST_W_GameOptions_C_23:ExecuteUbergraph_W_GameOptions
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54876240, Size=112
+[2018.11.04-10.51.05:685][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6cfdd6e0, Size=112, Default__W_VideoOptions_C Function /Engine/Transient.REINST_W_VideoOptions_C_24:ExecuteUbergraph_W_VideoOptions
+[2018.11.04-10.51.05:779][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d996590, Size=4, Default__PC_Menu_C Function /Game/MenuBuilderCarousel/Blueprints/PC_Menu.PC_Menu_C:ExecuteUbergraph_PC_Menu
+[2018.11.04-10.51.05:780][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d996500, Size=8, Default__W_ButtonFooter_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonFooter.W_ButtonFooter_C:ExecuteUbergraph_W_ButtonFooter
+[2018.11.04-10.51.05:781][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d9394e0, Size=96, Default__W_ButtonMainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonMainMenu.W_ButtonMainMenu_C:ExecuteUbergraph_W_ButtonMainMenu
+[2018.11.04-10.51.05:783][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d996200, Size=8, Default__W_ButtonRegular_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonRegular.W_ButtonRegular_C:ExecuteUbergraph_W_ButtonRegular
+[2018.11.04-10.51.05:785][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d80e200, Size=512, Default__W_ButtonScroll1_C Function /Game/MenuBuilderCarousel/UMG/W_ButtonScroll1.W_ButtonScroll1_C:ExecuteUbergraph_W_ButtonScroll1
+[2018.11.04-10.51.05:787][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d995c98, Size=4, Default__W_Campaign_C Function /Game/MenuBuilderCarousel/UMG/W_Campaign.W_Campaign_C:ExecuteUbergraph_W_Campaign
+[2018.11.04-10.51.05:790][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e6bbe80, Size=188, Default__W_CarouselItem_C Function /Game/MenuBuilderCarousel/UMG/W_CarouselItem.W_CarouselItem_C:ExecuteUbergraph_W_CarouselItem
+[2018.11.04-10.51.05:794][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d7c5c20, Size=200, Default__W_CarouselSlot_C Function /Game/MenuBuilderCarousel/UMG/W_CarouselSlot.W_CarouselSlot_C:ExecuteUbergraph_W_CarouselSlot
+[2018.11.04-10.51.05:797][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d995700, Size=4, Default__W_DifficultyLevels_C Function /Game/MenuBuilderCarousel/UMG/W_DifficultyLevels.W_DifficultyLevels_C:ExecuteUbergraph_W_DifficultyLevels
+[2018.11.04-10.51.05:799][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d995508, Size=4, Default__W_FrameRateLevels_C Function /Game/MenuBuilderCarousel/UMG/W_FrameRateLevels.W_FrameRateLevels_C:ExecuteUbergraph_W_FrameRateLevels
+[2018.11.04-10.51.05:804][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e603e80, Size=376, Default__W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.51.05:807][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d995030, Size=4, Default__W_Multiplayer_C Function /Game/MenuBuilderCarousel/UMG/W_Multiplayer.W_Multiplayer_C:ExecuteUbergraph_W_Multiplayer
+[2018.11.04-10.51.05:808][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d7d85b0, Size=24, Default__W_PopUpSaveSettings_C Function /Game/MenuBuilderCarousel/UMG/W_PopUpSaveSettings.W_PopUpSaveSettings_C:ExecuteUbergraph_W_PopUpSaveSettings
+[2018.11.04-10.51.05:810][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d994d20, Size=4, Default__W_QualityLevels_C Function /Game/MenuBuilderCarousel/UMG/W_QualityLevels.W_QualityLevels_C:ExecuteUbergraph_W_QualityLevels
+[2018.11.04-10.51.05:812][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d994b30, Size=4, Default__W_Resolution_C Function /Game/MenuBuilderCarousel/UMG/W_Resolution.W_Resolution_C:ExecuteUbergraph_W_Resolution
+[2018.11.04-10.51.05:818][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d994940, Size=4, Default__W_Settings_C Function /Game/MenuBuilderCarousel/UMG/W_Settings.W_Settings_C:ExecuteUbergraph_W_Settings
+[2018.11.04-10.51.05:821][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6d994790, Size=4, Default__W_WindowMode_C Function /Game/MenuBuilderCarousel/UMG/W_WindowMode.W_WindowMode_C:ExecuteUbergraph_W_WindowMode
+[2018.11.04-10.51.05:831][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e4c2f00, Size=120, Default__W_AdvancedOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AdvancedOptions.W_AdvancedOptions_C:ExecuteUbergraph_W_AdvancedOptions
+[2018.11.04-10.51.05:837][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e3ee860, Size=104, Default__W_AudioOptions_C Function /Game/MenuBuilderCarousel/UMG/W_AudioOptions.W_AudioOptions_C:ExecuteUbergraph_W_AudioOptions
+[2018.11.04-10.51.05:841][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e3c6e00, Size=88, Default__W_GameOptions_C Function /Game/MenuBuilderCarousel/UMG/W_GameOptions.W_GameOptions_C:ExecuteUbergraph_W_GameOptions
+[2018.11.04-10.51.05:848][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6e319440, Size=112, Default__W_VideoOptions_C Function /Game/MenuBuilderCarousel/UMG/W_VideoOptions.W_VideoOptions_C:ExecuteUbergraph_W_VideoOptions
+[2018.11.04-10.51.06:205][169]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.11.04-10.51.06:205][169]LogTexture: Display: Building textures: T_MenuIcons (BGRA8, 512X512)
+[2018.11.04-10.51.06:205][169]LogTexture: Display: Building textures: T_NewsPicSample (BGRA8, 1920X1080)
+[2018.11.04-10.51.06:205][169]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_CircuitBoard2 (BGRA8, 2048X2048)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_Checkbox1 (BGRA8, 512X512)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_MenuIcons2 (BGRA8, 512X512)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_SteamParty_Featured (BGRA8, 894X488)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_ExplosionBuilder_Featured (BGRA8, 476X246)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_DemoPlayer_Featured (BGRA8, 476X246)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_BuilderCarouselPromo (BGRA8, 512X512)
+[2018.11.04-10.51.06:291][169]LogTexture: Display: Building textures: T_MainMenuBorder2 (BGRA8, 2048X16)
+[2018.11.04-10.51.06:291][169]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.04-10.51.06:291][169]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-10.51.06:291][169]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-10.51.06:291][169]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2018.11.04-10.51.06:353][169]LogTexture: Display: Building textures: T_MainMenuBg2 (BGRA8, 1920X1080)
+[2018.11.04-10.51.06:353][169]LogMaterial: Missing cached shader map for material M_ButtonFade1, compiling. 
+[2018.11.04-10.51.06:634][169]LogTexture: Display: Building textures: T_MainMenuLogo1 (BGRA8, 256X256)
+[2018.11.04-10.51.06:634][169]LogTexture: Display: Building textures: T_MainMenuBg1 (BGRA8, 1920X1080)
+[2018.11.04-10.51.06:634][169]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.04-10.51.06:634][169]LogMaterial: Missing cached shader map for material M_GlitchEffect, compiling. 
+[2018.11.04-10.51.06:644][169]LogMaterial: Missing cached shader map for material M_ButtonBorder1, compiling. 
+[2018.11.04-10.51.06:711][169]LogMaterial: Missing cached shader map for material M_IconSet1Menu, compiling. 
+[2018.11.04-10.51.06:726][169]LogMaterial: Missing cached shader map for material M_CarouselBgDef, compiling. 
+[2018.11.04-10.51.07:051][169]LogMaterial: Missing cached shader map for material M_CheckBox1, compiling. 
+[2018.11.04-10.51.07:060][169]LogMaterial: Missing cached shader map for material M_CheckBox1, compiling. 
+[2018.11.04-10.51.07:093][169]LogMaterial: Missing cached shader map for material M_BorderEffect, compiling. 
+[2018.11.04-10.51.07:115][169]LogMaterial: Missing cached shader map for material M_MainMenuBackArrowLeft1, compiling. 
+[2018.11.04-10.51.07:121][169]LogMaterial: Missing cached shader map for material M_IconSet2Menu, compiling. 
+[2018.11.04-10.51.07:128][169]LogMaterial: Missing cached shader map for material M_NewsPicSample, compiling. 
+[2018.11.04-10.51.07:189][169]LogMaterial: Missing cached shader map for material M_MainMenuBorder1, compiling. 
+[2018.11.04-10.51.07:202][169]LogMaterial: Missing cached shader map for material M_MainMenuBg2, compiling. 
+[2018.11.04-10.51.07:214][169]LogMaterial: Missing cached shader map for material M_MainMenuBg2, compiling. 
+[2018.11.04-10.51.07:224][169]LogMaterial: Missing cached shader map for material M_IconSet2Menu, compiling. 
+[2018.11.04-10.51.07:717][169]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.11.04-10.51.08:160][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8bfb6668, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.04-10.51.08:161][169]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8bfb6660, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.04-10.51.08:916][169]LogSlate: Took 0.007133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.04-10.51.09:094][169]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_1
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.51.09:791][180]LogShaderCompilers: Display: Shaders left to compile 317
+[2018.11.04-10.51.10:142][185]LogShaderCompilers: Display: Shaders left to compile 307
+[2018.11.04-10.51.11:063][208]LogShaderCompilers: Display: Shaders left to compile 297
+[2018.11.04-10.51.11:269][216]LogShaderCompilers: Display: Shaders left to compile 287
+[2018.11.04-10.51.11:626][238]LogSlate: Window 'W_MainMenu' being destroyed
+[2018.11.04-10.51.13:182][316]LogShaderCompilers: Display: Shaders left to compile 277
+[2018.11.04-10.51.13:558][336]LogShaderCompilers: Display: Shaders left to compile 267
+[2018.11.04-10.51.14:156][366]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.11.04-10.51.14:370][373]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.11.04-10.51.14:819][395]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.11.04-10.51.16:143][463]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.11.04-10.51.16:570][486]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.11.04-10.51.16:721][494]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.11.04-10.51.17:437][531]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.11.04-10.51.18:264][574]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.11.04-10.51.18:926][604]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.11.04-10.51.19:909][648]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.11.04-10.51.19:935][649]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.11.04-10.51.22:016][743]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.11.04-10.51.22:425][763]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.11.04-10.51.22:734][778]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.11.04-10.51.24:088][842]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.11.04-10.51.25:254][894]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.11.04-10.51.26:156][935]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.11.04-10.51.27:187][982]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.11.04-10.51.27:520][996]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.11.04-10.51.29:291][ 76]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.11.04-10.51.29:773][ 96]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.11.04-10.51.29:930][102]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.11.04-10.51.32:120][193]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.11.04-10.51.32:624][216]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.11.04-10.51.32:651][217]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.04-10.51.34:798][316]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.04-10.52.27:929][523]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f6b9ce578, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.28:001][523]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_2
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.52.29:541][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6b9ce578, Size=4
+[2018.11.04-10.52.29:542][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f2407afb8, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_26:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.29:548][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f24078b90, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.29:589][652]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_3
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.52.30:189][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f24078b90, Size=4
+[2018.11.04-10.52.30:189][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54853478, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_27:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.30:198][705]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54852f08, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.30:229][705]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_4
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.52.31:118][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54852f08, Size=4
+[2018.11.04-10.52.31:119][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54852f08, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_28:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.31:126][788]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54850220, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.52.31:154][788]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_5
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.53.11:246][378]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54850220, Size=4
+[2018.11.04-10.53.11:247][378]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8f7a2870, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_29:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.11:254][378]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8f7a1740, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.11:429][378]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_6
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.53.14:047][578]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f8f7a1740, Size=4
+[2018.11.04-10.53.14:047][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f24079938, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_30:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.14:056][578]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f24078cb0, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.14:126][578]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_7
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.53.22:144][269]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f24078cb0, Size=4
+[2018.11.04-10.53.22:144][269]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54852350, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_31:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.22:151][269]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f54851b98, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.22:204][269]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_8
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.53.23:824][455]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54851b98, Size=4
+[2018.11.04-10.53.23:824][455]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f7cb521d8, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_32:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.23:829][455]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f24078f98, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.53.23:885][455]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_9
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06aad0, Size=8
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06aba8, Size=8
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a9a8, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06ac10, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f53b33d00, Size=88
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6cf0f280, Size=376
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d1d2aa0, Size=96
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d122d40, Size=188
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6cf44d40, Size=200
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a948, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a860, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d1f9300, Size=120
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d248e00, Size=512
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6cff3178, Size=24
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a930, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a8a0, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6cfdd6e0, Size=112
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a970, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a850, Size=4
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6cfdd830, Size=104
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d1d2500, Size=88
+[2018.11.04-10.57.22:279][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f6d06a990, Size=4
+[2018.11.04-10.57.22:281][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f2407afb8, Size=4
+[2018.11.04-10.57.22:282][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54853478, Size=4
+[2018.11.04-10.57.22:282][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54852f08, Size=4
+[2018.11.04-10.57.22:282][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f8f7a2870, Size=4
+[2018.11.04-10.57.22:283][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f24079938, Size=4
+[2018.11.04-10.57.22:284][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f54852350, Size=4
+[2018.11.04-10.57.22:284][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f7cb521d8, Size=4
+[2018.11.04-10.57.22:318][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.091
+[2018.11.04-10.57.22:321][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MenuBuilderCarousel/UMG/W_MainMenu] ([1] browsable assets)...
+[2018.11.04-10.57.22:321][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/MenuBuilderCarousel/UMG/W_MainMenu]
+[2018.11.04-10.57.22:452][662]LogSavePackage: Save=119.86ms
+[2018.11.04-10.57.22:452][662]LogSavePackage: Moving '../../../../../unreal/FirstPersonColab/FirstPersonShooter/Saved/W_MainMenu_Auto17F59D96E4708994BABE83087056FFE8B.tmp' to '../../../../../unreal/FirstPersonColab/FirstPersonShooter/Saved/Autosaves/Game/MenuBuilderCarousel/UMG/W_MainMenu_Auto1.uasset'
+[2018.11.04-10.57.22:453][662]LogSavePackage: Display: Finished SavePackage ../../../../../unreal/FirstPersonColab/FirstPersonShooter/Saved/Autosaves/Game/MenuBuilderCarousel/UMG/W_MainMenu_Auto1.uasset
+[2018.11.04-10.57.22:453][662]LogFileHelpers: Auto-saving content packages took 0.134
+[2018.11.04-10.58.52:970][669]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.11.04-10.58.52:983][670]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-10.58.52:997][670]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.11.04-10.58.53:000][670]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.04-10.58.53:048][673]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.11.04-10.58.53:100][673]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.11.04-10.58.53:100][673]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.11.04-10.58.53:114][674]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.11.04-10.58.53:180][677]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.11.04-10.58.53:221][679]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.11.04-10.58.54:245][751]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.11.04-10.58.54:245][751]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.11.04-10.58.55:136][807]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.11.04-10.58.55:284][818]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.11.04-10.58.56:138][877]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.11.04-10.58.56:804][911]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.11.04-10.58.57:143][935]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.11.04-10.58.57:336][949]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.11.04-10.58.57:760][979]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.11.04-10.58.58:854][ 60]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.11.04-10.58.59:302][ 94]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.11.04-10.58.59:407][102]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.11.04-10.58.59:553][113]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.11.04-10.59.00:847][206]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.11.04-10.59.01:043][219]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.04-10.59.01:200][231]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.04-10.59.04:248][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:249][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_2' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:251][505]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_4' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:259][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_6' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:261][506]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_8' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:270][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_10' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:272][507]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_12' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:280][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_14' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:282][508]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_16' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:289][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_18' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:291][509]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_20' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:297][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_22' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:299][510]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_24' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:306][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_26' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:308][511]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_28' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:316][512]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_30' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:324][513]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_32' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:332][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_34' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:334][514]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_36' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:342][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_38' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:345][515]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_40' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:353][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_42' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:354][516]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_44' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:361][517]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_46' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:363][517]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_48' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:370][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_50' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:372][518]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_52' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:380][519]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_54' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:388][520]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_56' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:390][520]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:396][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:398][521]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:405][522]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:407][522]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:414][523]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:416][523]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:423][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:425][524]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:432][525]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:434][525]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:441][526]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:443][526]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:451][527]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:453][527]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:460][528]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_88' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:468][529]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:476][530]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:485][531]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:493][532]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:501][533]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:503][533]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:510][534]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:519][535]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:527][536]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:535][537]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:544][538]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:553][539]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:561][540]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:570][541]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:579][542]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:586][543]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:595][544]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:603][545]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:611][546]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:620][547]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:628][548]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:636][549]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:645][550]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:653][551]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:662][552]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:670][553]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:678][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:686][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:695][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:703][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:712][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:720][559]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:728][560]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:736][561]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.CanvasPanel_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.11.04-10.59.04:745][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f24078f98, Size=4
+[2018.11.04-10.59.04:745][562]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f5538e1c0, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_33:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.59.04:750][562]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f5538ff30, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.59.04:801][562]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_10
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-10.59.05:795][679]LogEditorTransaction: Undo Move Widget
+[2018.11.04-10.59.05:796][679]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022f5538ff30, Size=4
+[2018.11.04-10.59.05:796][679]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8f7a3d50, Size=4, Default__SKEL_W_MainMenu_C Function /Engine/Transient.REINST_SKEL_W_MainMenu_C_34:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.59.05:801][679]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022f8f7a2fa8, Size=4, Default__SKEL_W_MainMenu_C Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.SKEL_W_MainMenu_C:ExecuteUbergraph_W_MainMenu
+[2018.11.04-10.59.05:854][679]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue3
+	W_MainMenu_C /Engine/Transient.World_3:W_MainMenu_C_11
+	Function /Game/MenuBuilderCarousel/UMG/W_MainMenu.W_MainMenu_C:ExecuteUbergraph_W_MainMenu:070B
+[2018.11.04-11.01.09:715][457]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2018.11.04-11.01.09:729][457]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.04-11.01.10:777][457]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.013 s
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: 
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIResourceManager.cpp] [Line: 735]
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: Slate RHI Error - Invalid Texture2D 'Hit_React_1'.
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: Stack: 
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x000000003F51B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x000000003F27AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x000000003F28ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x00000000097ED549 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x00000000097F49C5 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DA4242 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000010C27B39 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000010C2634B UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x000000002C2BE784 UE4Editor-UMG.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB3C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x000000002C2BE784 UE4Editor-UMG.dll!UnknownFunction []
+[2018.11.04-11.01.10:777][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB3C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB3C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CAD4BD UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA9417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CAD1B8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x000000002C2BE784 UE4Editor-UMG.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA9417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB3C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA9417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CAA124 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x000000000B89E970 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000010CA91E0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1AF9 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB3C76 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB1C2E UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB333C UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: [Callstack] 0x0000000042DB15B4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.11.04-11.01.10:778][457]LogOutputDevice: Error: 
+[2018.11.04-11.01.10:782][457]LogStats:                SubmitErrorReport -  0.000 s
